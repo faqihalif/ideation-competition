@@ -124,6 +124,11 @@ Developer: Najmul Huda Eimon
     src: url("../font/minercraftory.ttf");
 }
 
+@font-face {
+    font-family: "Poppins";
+    src: url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap");
+}
+
 /* 1.2: common css */
 body {
     overflow-x: hidden !important;
